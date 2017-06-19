@@ -52,6 +52,11 @@
     </div> <!-- container-fluid -->
 </nav>
 
+<!-- header image -->
+<div class="header">
+
+</div>
+
 <!-- basic body -->
 <div class="container">
     <div class="row">
