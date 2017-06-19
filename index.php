@@ -39,7 +39,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Palvelut</a>
                     <ul class="dropdown-menu">
-                        <li><a href="/"></a>Psykologipalvelut</li>
+                        <li><a href="/">Psykologipalvelut</a></li>
                         <li><a href="/">Psykoterapia</a></li>
                         <li><a href="/">Työnohjaus</a></li>
                         <li><a href="/">Palvelut yrityksille ja organisaatioille</a></li>
