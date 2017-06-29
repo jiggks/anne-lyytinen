@@ -11,7 +11,7 @@ footer {
 
 .header {
     width:100%;
-    height:600px;
+    height: 50vh;
     background: white url('../img/header.jpg') no-repeat center center;
     background-size: cover;
 }
